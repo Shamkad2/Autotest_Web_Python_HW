@@ -1,0 +1,9 @@
+address: 'https://test-stand.gb.ru'
+driver_path: 'chromedriver.exe'
+sleep_time: '5'
+login: 'menmen11'
+passwd: 'a576a71998'
+title: 'seminar_2'
+description: 'homework for seminar_2'
+content: 'introduction to Selenium'
+
