@@ -1,0 +1,17 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 1
+
+login: menmen11
+passwd: a576a71998
+
+
+title: WebDriver
+description: Selenium WebDriver is a programming interface that can be used to create and execute test cases.
+content: Think of a WebDriver as a mediator, something that allows two things to interact. Imagine there are two people who cannot speak the same language. One of them has interesting and useful things to say, but can not get their point across. In that case, you need an interpreter.
+
+u_name: Иван
+u_email: shamilkadyrov@yandex.ru
+content_contact: One of them has interesting and useful things to say, but can not get their point across. In that case, you need an interpreter.
+
+
